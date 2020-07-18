@@ -1,0 +1,7 @@
+{
+  "name": "ReactNativeEssentialExample",
+  "appKey": "RNApp",
+  "h5SubPath": "example",
+  "h5PageTitle": "React Native 示例",
+  "h5ServerPort": "3000"
+}

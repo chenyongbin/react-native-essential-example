@@ -1,0 +1,1 @@
+export { ZIndex, FontFamily } from "react-native-essential/constants";
